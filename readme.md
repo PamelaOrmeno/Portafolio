@@ -23,6 +23,15 @@ Bienvenido/a a mi portafolio, donde muestro mi experiencia en **metodologías á
  ├── 📂 assets/         # Imágenes y recursos
  ├── 📂 js/             # Scripts de funcionalidad
  └── 📄 README.md       # Información del proyecto
+📺 Mi Portafolio
+│── 📄 index.html       # Estructura principal de la aplicación
+│── 📄 about.html       # Sección "Sobre mí"
+│── 📂 styles/          # Archivos CSS
+│──     🎨 style.css    # Estilos y diseño visual
+│── 📂 assets/          # Imágenes y recursos
+│── 📂 js/              # Scripts de funcionalidad
+│──     🚀 app.js       # Lógica del sorteo y manejo del DOM
+│── 📄 README.md        # Documentación del proyecto
 
 ---
 
