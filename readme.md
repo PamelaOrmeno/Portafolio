@@ -13,7 +13,7 @@ Bienvenido/a a mi portafolio, donde muestro mi experiencia en **metodologías á
 - **Git & GitHub**
 
 ---
-
+<!--
 ## 📌 Estructura del Proyecto
 
 📂 MiPortafolio  
@@ -25,9 +25,9 @@ Bienvenido/a a mi portafolio, donde muestro mi experiencia en **metodologías á
 ├── 📂 js/             # Scripts de funcionalidad  
 │   └── 🚀 app.js      # Lógica y manejo del DOM  
 └── 📄 README.md       # Documentación del proyecto  
-
+*/
 ---
-
+-->
 ## 🎯 Objetivo del Proyecto
 
 Este portafolio tiene como objetivo mostrar mis habilidades, experiencia y proyectos, facilitando la conexión con potenciales colaboradores y empleadores.
