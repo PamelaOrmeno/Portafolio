@@ -16,13 +16,6 @@ Bienvenido/a a mi portafolio, donde muestro mi experiencia en **metodologías á
 
 ## 📌 Estructura del Proyecto
 
-📂 MiPortafolio
- ├── 📄 index.html      # Página principal
- ├── 📄 about.html      # Sección "Sobre mí"
- ├── 📂 styles/         # Archivos CSS
- ├── 📂 assets/         # Imágenes y recursos
- ├── 📂 js/             # Scripts de funcionalidad
- └── 📄 README.md       # Información del proyecto
 📺 Mi Portafolio
 │── 📄 index.html       # Estructura principal de la aplicación
 │── 📄 about.html       # Sección "Sobre mí"
